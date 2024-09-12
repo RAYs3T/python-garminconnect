@@ -1,4 +1,4 @@
-garth>=0.4.45
+garth>=0.4.46
 withings-sync>=4.2.4
 readchar
 requests
